@@ -1,6 +1,6 @@
 ### Hello World, I'm Dwi  👋
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dwinuray/dwinuray/main/kay2hhc3-unscreen.gif?raw=true" width="350" height="350" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dwinuray/dwinuray/main/kay2hhc3-unscreen.gif?raw=true" width="300" height="300" />
 
 
 ## I'm a Developer, Instructor, and Mentor !
